@@ -1,4 +1,4 @@
-# INFO6105
+# Data Science Engineering and Tools
 
 ●	Analyzed and performed feature engineering on Amazon Product Reviews of Fashion, Appliances and Prime Pantry
 
